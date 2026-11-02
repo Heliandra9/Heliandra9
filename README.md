@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.github.com/Heliandra9/Heliandra9/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Heliandra9/Heliandra9/output/snake.svg" alt="Snake animation" />
 
 ###
