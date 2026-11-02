@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Heliandra and I'm a Fullstack Developer, from Indonesia Tasikmalaya</h2>
+<h2 align="left">Hi 👋! My name is Heliandra and I'm a Fullstack Developer, from Indonesia Kebumen</h2>
 
 ###
 
@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Heliandra9/Heliandra9/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.github.com/Heliandra9/Heliandra9/output/snake.svg" alt="Snake animation" />
 
 ###
